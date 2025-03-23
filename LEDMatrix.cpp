@@ -1,12 +1,4 @@
 #include "mbed.h"
-//#include "SerialStream.h"
-/*
-example of driving maxim chip for Glasgow Uni Projects.
-
-Dr J.J.Trinder 2013,14
-jon.trinder@glasgow.ac.uk
- 
-*/
 
 #define max7219_reg_noop         0x00
 #define max7219_reg_digit0       0x01
